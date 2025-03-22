@@ -2,7 +2,7 @@ Requisitos Funciomais:
 
 -RF1. O sistema deve permitir o cadastro de professores e de matriculas de alunos pela parte da gestao escolar;
 
--RF2. O sistema deve permitir os professores dar notas aos alunos;
+-RF2. O sistema deve permitir os professores dar notas aos alunos(Aplicação de notas de cada trimestre, apenas o professor podendo editar o Boletim, o aluno apenas podendo visualizar.);
 
 -RF3. O sistema deve permitir os professores de comseguirem dar falta para os alunos;
 
@@ -13,6 +13,16 @@ Requisitos Funciomais:
 -RF6. O sistema deve permitir que os alunos possam acessar sua frequencia;
 
 -RF7. O sistema deve alertar os alunos se sua frequenquencia estar abaixo da media escolar.
+
+-RF8. Após fazer login o usuario deve completar um captcha apenas para uma verificação basica, para evitar um ataque DDOS
+
+-RF9. O sistema deve ter um Boletim do aluno, apenas sera gerado no final do ano. Mostrando, frequencia, nota media, anual, e nota final.
+
+-RF10. O sistema deve ter um Historico do aluno (Suspenções, Advertencias) com motivo de cada Suspenção ou Advertencia.
+
+-RF11. O sistema deve ter uma Hata onde armazena os atestados dos alunos que faltaram com justificativa para no final do ano não descontar presença.
+
+-RF12. O sistema deve ter um portal do estudante e professores (Na hora de login sera possivel a escolha entre "aluno ou professor").
 
 Requisitos Não Funciomais:
 
@@ -25,3 +35,33 @@ Requisitos Não Funciomais:
 -RNF4. O sistema deve ser uma aplicação para dispositivos moveis(aplicativo) e desktop
 
 -RNF5. O gerenciamento das matriculas deve ser por desktop.
+
+-RNF6. Uma Hata onde armazena os atestados dos alunos que faltaram com justificativa para no final do ano não descontar presença.
+
+-RNF7. A gestão deve conseguir dar permissão para professores e alunos.
+
+-RNF8. Um mural de avisos para os alunos, onde apenas os professores poderão fazer postagens
+
+-RNF9. Sistema de chat privado entre aluno e professor.
+
+-RNF10. Compatibilidade (funcionar em multi-plataforma).
+
+-RNF11. Segurança de ponta (todos os dados são criptografados)
+
+-RNF12. Capacidade de fazer manutenções.
+
+-RNF13. Suporte com uma IA que possa ajudar caso haja alguma duvida dentro do aplicativo.
+
+-RNF14. Desempenho ( Te devolve uma resposta em até 1/2 segundos ).
+
+-RNF14. Comunicação com os pais e alunos.
+
+-RNF15. O login do aluno só sera liberado após algum responsavel da escola o matricular no sistema. Assim gerando um Email; " nomedoaluno@aluno**.*** "
+
+-RNF16. O login dos professores também sera com email como de exemplo; "nomedoprofessor@professor**.*** "
+
+-RNF17. Garantir que o sistema funcione de forma consistente e correta.
+
+Regras de Negócio do Sistema de Biblioteca:
+
+- Os usuários devem acessar o sistema com login, senha e CPF.
