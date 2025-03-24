@@ -8,8 +8,6 @@
 
 - RF3. O sistema deve deixar todos os alunos com presença e então permitir dar falta;
 
-- RF3. O sistema deve permitir dar falta para os alunos;
-
 - RF4. O sistema deve permitir o gerenciamento de matriculas(Cancelar e etc);
 
 - RF5. O sistema deve permitir que os alunos possam visualizar as notas e a frequencia;
