@@ -6,13 +6,15 @@
 
 - RF2. O sistema deve permitir dar notas aos alunos(Aplicação de notas de cada trimestre);
 
+- RF3. O sistema deve deixar todos os alunos com presença e então permitir dar falta;
+
 - RF3. O sistema deve permitir dar falta para os alunos;
 
 - RF4. O sistema deve permitir o gerenciamento de matriculas(Cancelar e etc);
 
-- RF5. O sistema deve permitir que os alunos possam visuizar as notas e a frequencia;
+- RF5. O sistema deve permitir que os alunos possam visualizar as notas e a frequencia;
 
-- RF6. O sistema deve alertar os alunos se sua frequenquencia estar abaixo da media escolar;
+- RF6. O sistema deve alertar os alunos se sua frequencia estar abaixo da media escolar;
 
 - RNF7. Um mural de avisos para os alunos, onde apenas os professores poderão fazer postagens;
 
@@ -58,7 +60,7 @@
 
 - Os usuários devem acessar o sistema com login, com email(dependendo do portal escolhido: professor ou aluno), senha e CPF;
 
-- Apenas o professor e a gestão da escola podem dar notas, faltas e editar o boletim dos alunos. Os alunos apenas podem as notas, faltas e boletim;
+- Apenas o professor e a gestão da escola podem dar notas, faltas e editar o boletim dos alunos. Os alunos apenas podem visualizar notas, faltas e boletim;
 
 - Apena a gestão escolar tem acesso e gerencia as matriculas;
 
