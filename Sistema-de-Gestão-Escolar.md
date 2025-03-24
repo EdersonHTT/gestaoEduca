@@ -2,7 +2,7 @@
 
 ## Requisitos Funciomais:
 
-- RF1. O sistema deve permitir o cadastro de professores e de matriculas de alunos pela parte da gestao escolar;
+- RF1. O sistema deve permitir o cadastro de professores e de matriculas de alunos pela parte da gestão escolar;
 
 - RF2. O sistema deve permitir dar notas aos alunos(Aplicação de notas de cada trimestre);
 
@@ -72,4 +72,4 @@
 
 - A recuperação de senha deve ser por meio do CPF ou pela gestão escolar;
 
-- O sistema deve notificar o email do usuario para logins feitos em outros dispositivos.
+- O sistema deve notificar o email do usuário para logins feitos em outros dispositivos.
