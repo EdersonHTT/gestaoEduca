@@ -6,13 +6,13 @@
 
 - RF2. O sistema deve permitir dar notas aos alunos(Aplicação de notas de cada trimestre);
 
-- RF3. O sistema deve deixar todos os alunos com presença e então permitir dar falta;
+- RF3. O sistema deve deixar todos os alunos com presença e então permitir dar faltas;
 
 - RF4. O sistema deve permitir o gerenciamento de matriculas(Cancelar e etc);
 
-- RF5. O sistema deve permitir que os alunos possam visualizar as notas e a frequencia;
+- RF5. O sistema deve permitir que os alunos possam visualizar as notas e a frequência;
 
-- RF6. O sistema deve alertar os alunos se sua frequencia estar abaixo da media escolar;
+- RF6. O sistema deve alertar os alunos se sua frequência estar abaixo da media escolar;
 
 - RNF7. Um mural de avisos para os alunos, onde apenas os professores poderão fazer postagens;
 
@@ -20,7 +20,7 @@
 
 - RF9. Após fazer login o usuario deve completar um captcha apenas para uma verificação basica, para evitar um ataque DDOS;
 
-- RF10. O sistema deve ter um boletim do aluno, apenas sera gerado no final do trimestre ou bimestre. Mostrando frequencia, nota media, anual, e nota final;
+- RF10. O sistema deve ter um boletim do aluno, apenas sera gerado no final do trimestre ou bimestre. Mostrando frequência, nota media, anual, e nota final;
 
 - RF11. O sistema deve ter um Historico do aluno (Suspenções, Advertencias) com motivo de cada Suspenção ou Advertencia;
 
@@ -72,4 +72,4 @@
 
 - A recuperação de senha deve ser por meio do CPF ou pela gestão escolar;
 
-- O sistema deve notificar o email do ususario para logins feitos em outros dispositivos.
+- O sistema deve notificar o email do usuario para logins feitos em outros dispositivos.
